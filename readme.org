@@ -1,0 +1,9 @@
+#+title: Kitty Config
+* Overview
+* Deployment
+
+To load this configuration on other machine, copy and paste the following code into the terminal.
+
+#+begin_src bash :exports code
+git clone git@github.com:waridh/kitty-config.git ~/.config/kitty
+#+end_src
